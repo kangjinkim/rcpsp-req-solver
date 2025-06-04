@@ -79,10 +79,8 @@ Both instance generators (`generator_plain.py` and `generator_req.py`) rely on a
         "resource_type_count": 4,		// for number of resources
 		"timeout": 600,					// for timeout
         // ... other parameters for plain RCPSP
-        "stakeholder_requirements": { 	// For RCPSP-REQ
-			"rstar": 1, 				// for the r^{\star} resource type
-            // ... other requirement parameters
-        }
+		"rstar": 1, 				    // for the r^{\star} resource type for RCPSP-REQ
+        // ... other requirement parameters
     }
     ```
 
