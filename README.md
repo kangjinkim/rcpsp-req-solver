@@ -3,9 +3,10 @@
 This repository contains a proof-of-concept implementation of the RCPSP-REQ solver, designed to address the Resource-Constrained Project Scheduling Problem (RCPSP) while incorporating diverse stakeholder requirements. The system is particularly geared towards applications like Urban Air Mobility (UAM) scheduling.
 
 This software is developed as part of the research detailed in our paper:
-**Title:** Enhancing Urban Air Mobility Scheduling Through Declarative Reasoning and Stakeholder Modeling
-**Authors:** Jeongseok Kim and Kangjin Kim
-*(Status: Under Review)*
+
+* **Title:** Enhancing Urban Air Mobility Scheduling Through Declarative Reasoning and Stakeholder Modeling
+* **Authors:** Jeongseok Kim and Kangjin Kim
+* *(Status: Under Review)*
 
 ## Overview
 
