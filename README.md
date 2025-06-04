@@ -188,7 +188,6 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 ## Contact
 For questions or feedback, please contact:
 
-Jeongseok Kim - [jeongseok.kim@sk.com]
-Kangjin Kim - [kangjinkim@cdu.ac.kr]
+Kangjin Kim - [GitHub URL](https://github.com/kangjinkim)
 
 Or open an issue in this repository.
