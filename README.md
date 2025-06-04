@@ -74,13 +74,13 @@ Both instance generators (`generator_plain.py` and `generator_req.py`) rely on a
     **Example `gencfg.json` structure (illustrative):**
     ```json
     {
-        "num_of_insts": 100, 			// for number of instances to be generated
-		"inst_count_max": 5,			// for number of forests
-        "task_max_count": 20, 			// for number of jobs in an instance
-        "resource_type_count": 4,		// for number of resources
-		"timeout": 600,					// for timeout
+        "num_of_insts": 100,          // for number of instances to be generated
+        "inst_count_max": 5,          // for number of forests
+        "task_max_count": 20,         // for number of jobs in an instance
+        "resource_type_count": 4,     // for number of resources
+        "timeout": 600,               // for timeout
         // ... other parameters for plain RCPSP
-		"rstar": 1, 				    // for the r^{\star} resource type for RCPSP-REQ
+        "rstar": 1,                   // for the r*(r-star) resource type for RCPSP-REQ
         // ... other requirement parameters
     }
     ```
